@@ -13,7 +13,7 @@
 10. [Case Studies](#case-studies)
 11. [Future Developments in Azure DevOps](#future-developments-in-azure-devops)
 
----
+--- 
 
 ## Introduction to Azure DevOps
 Azure DevOps provides developer services for support teams to plan work, collaborate on code development, and build and deploy applications. It works with any language, platform, and cloud.
