@@ -1,7 +1,7 @@
 # Azure DevOps: A Comprehensive Guide 
 
 ## Table of Contents
-1. [Introduction to Azure DevOps](#introduction-to-azure-devops)
+1. [Introduction to Azure DevOps](#introduction-to-azure-devops) 
 2. [Azure Boards](#azure-boards)
 3. [Azure Repos](#azure-repos)
 4. [Azure Pipelines](#azure-pipelines)
