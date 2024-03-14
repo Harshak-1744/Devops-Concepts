@@ -56,8 +56,6 @@ Examples of real-world applications of Azure DevOps in different industries.
 ## Future Developments in Azure DevOps
 Discussing upcoming features, integrations, and trends in Azure DevOps.
 
----
-
 ## Azure DevOps End-to-End Example: Developing and Deploying a Web Application
 
 This section outlines how each Azure DevOps component plays a crucial role throughout the development lifecycle of a web application, from planning to deployment.
