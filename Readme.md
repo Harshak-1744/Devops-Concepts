@@ -12,7 +12,7 @@
 9. [Best Practices for Using Azure DevOps](#best-practices-for-using-azure-devops)
 10. [Case Studies](#case-studies)
 11. [Future Developments in Azure DevOps](#future-developments-in-azure-devops)
-12. [Example](##Azure-DevOps-End-to-End-Example)
+12. [Example](#Azure-DevOps-End-to-End-Example)
 
 --- 
 
