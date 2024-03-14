@@ -12,6 +12,7 @@
 9. [Best Practices for Using Azure DevOps](#best-practices-for-using-azure-devops)
 10. [Case Studies](#case-studies)
 11. [Future Developments in Azure DevOps](#future-developments-in-azure-devops)
+12. [Example](##Azure DevOps End-to-End Example: Developing and Deploying a Web Application)
 
 --- 
 
@@ -57,7 +58,7 @@ Discussing upcoming features, integrations, and trends in Azure DevOps.
 
 ---
 
-# Azure DevOps End-to-End Example: Developing and Deploying a Web Application
+## Azure DevOps End-to-End Example: Developing and Deploying a Web Application
 
 This example outlines how each Azure DevOps component plays a crucial role throughout the development lifecycle of a web application, from planning to deployment.
 
